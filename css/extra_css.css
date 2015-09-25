@@ -1,0 +1,99 @@
+﻿body {
+}
+
+.newButton{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:12px;
+    width:160px;
+    height:25px;
+    background: #f3f3f3 ;
+    text-align: center;
+    color: #989898;
+
+}
+
+.newdrop{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:11px;
+   
+    width:160px;
+    height:25px;
+    background: #f3f3f3 ;
+    text-align: center;
+    color: #989898;
+}
+
+.newTable{
+    text-align:left;
+}
+
+.newTableText{
+    text-align:left;
+    width:196px;
+}
+
+.newBrowse{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:12px;
+    width:300px;
+    height:25px;
+    background: #f3f3f3 ;
+    text-align: center;
+    color: #989898;
+
+}
+
+.cvTablePhoto{
+    max-width:150px;
+    max-height:150px;
+    
+}
+
+.cvTableName{
+    text-align:center;
+    font-size:16px;
+}
+
+.cvTableText{
+    text-align:left;
+    width:100px;
+}
+
+.cvTableInfo{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:11px;
+    
+    text-align: left;
+    
+}
+.cvTableTextright{
+    text-align:right;
+    width:196px;
+}
+
+.tableTextRight{
+    text-align:left;
+}
+
+.newButtonSP{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:12px;
+    width:200px;
+    height:25px;
+    background: #f3f3f3 ;
+    text-align: center;
+    color: #989898;
+
+}
+
+.newButtonSP1{
+    font-family:Verdana, Arial, Tahoma;
+	font-size:12px;
+    width:300px;
+    height:25px;
+    background: #f3f3f3 ;
+    text-align: center;
+    color: #989898;
+
+}
+

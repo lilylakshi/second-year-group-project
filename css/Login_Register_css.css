@@ -1,0 +1,105 @@
+﻿body {
+    font-family: Arial;
+    background:#567;
+    height: 656px;
+}
+
+.main {
+    overflow: hidden;
+    background: #f0f0f0;
+    border-radius: 6px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 50px rgba(0,0,0,.8);
+}
+
+.main .title {
+    padding-top: 17px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-align:right;
+    color: #3399cc;
+    font-weight: bold;
+    background: #f0f0f0;
+    border: #2d2d2d solid 0px;
+    margin-bottom: 30px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    font-family: Arial;
+}
+
+.main .title2 {
+    width = 23px;
+    padding-top: 17px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align:center;
+    color:black;
+    font-weight: bold;
+    background: #f0f0f0;
+    border: #2d2d2d solid 0px;
+    margin-bottom: 30px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    font-family: Arial;
+}
+
+.label {
+    font-size: 17px;
+    text-align: left;
+    color: #2d2d2d;
+    font-family: Arial;
+    font-weight :bold;
+}
+
+.label2 {
+    font-size: 17px;
+    text-align: left;
+    color: #2d2d2d;
+    font-family: Arial;
+}
+
+.label3 {
+    font-size: 12px;
+    text-align: left;
+    color: #2d2d2d;
+    font-family: Arial;
+}
+
+.label4 {
+    font-size: 12px;
+    text-align: left;
+    color:green;
+    font-family: Arial;
+    text-align:right;
+}
+
+.button {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    border-top: #4eb2a8 0px solid;
+    border-bottom: #161616 0px solid;
+    background: #3399cc;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: 0 -1px #1d7464, 0 1px #7bb8b3;
+    font-family: Arial;
+    border-left-style: none;
+    border-left-color: inherit;
+    border-left-width: medium;
+    border-right-style: none;
+    border-right-color: inherit;
+    border-right-width: medium;
+    align-self:auto;
+}
+.RedLabel {
+    font-size: 12px;
+    text-align: left;
+    color:red;
+    font-family: Arial;
+    text-align:right;
+}

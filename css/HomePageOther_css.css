@@ -1,0 +1,18 @@
+﻿
+body {
+    padding-top: 70px; 
+	font-family: Arial;
+    background:#567;
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
